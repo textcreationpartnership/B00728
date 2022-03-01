@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A merry new song how a bruer meant to make a cooper cuckold and how deere the bruer paid for the bargaine. To the tune of, In somertime.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1590</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00728</idno>
+            <idno type="STC">STC 22919</idno>
+            <idno type="STC">Interim Tract Supplement Guide Huth 50[19]</idno>
+            <idno type="EEBO-CITATION">99892886</idno>
+            <idno type="PROQUEST">ocm99892886</idno>
+            <idno type="VID">182335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00728)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182335)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:4[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A merry new song how a bruer meant to make a cooper cuckold and how deere the bruer paid for the bargaine. To the tune of, In somertime.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcut).  </extent>
+               <publicationStmt>
+                  <publisher>H. Kirkham?,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1590?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by STC.</note>
+                  <note>Verse: "If that you list now merry be ..."</note>
+                  <note>Printed in two columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182335:1"/>
+            <!-- PDF PAGE 11 -->
+            <head>A merry new Song how a Bruer meant to make a Cooper cuckold<g ref="char:punc">▪</g> and how deere the Bruer paid for the bargaine.</head>
+            <opener>
+               <hi>To the tune of, <hi>In Somertime.</hi>
+               </hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>IF that you liſt now merry be,</l>
+               <l>Lend liſtning eares a while to me:</l>
+               <l>To heare a ſong of a Bruer bold,</l>
+               <l>That meant a Cooper to cuckold.</l>
+            </lg>
+            <lg>
+               <l>The Cooper walked downe the ſtréete,</l>
+               <l>And with the Bruer chanc'd to méete:</l>
+               <l>He called worke for a Cooper dame,</l>
+               <l>The Bruer was glad to heare the ſame.</l>
+            </lg>
+            <lg>
+               <l>Cooper quoth the Bruer come hether to me,</l>
+               <l>Perchance I haue ſome worke for thée:</l>
+               <l>If that they doings I doe well like,</l>
+               <l>Thou ſhalt haue worke for all this wéeke.</l>
+            </lg>
+            <lg>
+               <l>The Cooper with cap and curteſie low,</l>
+               <l>Said ready I am my tunning to ſhow,</l>
+               <l>To doe your worke ſir euery deale,</l>
+               <l>I doe not doubt to doe it well.</l>
+            </lg>
+            <lg>
+               <l>Then quoth this luſtie Bruer tho,</l>
+               <l>If thou my worke doeſt meane to doe:</l>
+               <l>Come to me to morrow before it be day,</l>
+               <l>To hoope vp theſe olde tubs out of the way.</l>
+            </lg>
+            <lg>
+               <l>And ſo to make vp my merry rime,</l>
+               <l>The Cooper the next day roſe betime</l>
+               <l>To the Bruers gate he tooke his race</l>
+               <l>And knocked there a great pace.</l>
+            </lg>
+            <lg>
+               <l>The Bruer leapt from his bed to the flore,</l>
+               <l>And to the Cooper he opned the dore:</l>
+               <l>He ſhewed him his worke without delay,</l>
+               <l>To the Coopers wife then he tooke the way.</l>
+            </lg>
+            <lg>
+               <l>The Cooper he called at mind at laſt,</l>
+               <l>His hatchet he had left at home for haſt:</l>
+               <l>And home for his hatchet he muſt goe,</l>
+               <l>Before he could worke the cauſe it was ſo.</l>
+            </lg>
+            <lg>
+               <l>But when he came his houſe ſomwhat nere</l>
+               <l>His wife by fortune did him heare:</l>
+               <l>Alas ſaid ſhe, what ſhift ſhall we make,</l>
+               <l>My huſband is come you will be take.</l>
+            </lg>
+            <lg>
+               <l>O Lord (ſayd the Bruer) what ſhall I doe,</l>
+               <l>How ſhall I hide me: where ſhall I goe:</l>
+               <l>Said ſhee if you will not be eſpide,</l>
+               <l>Créepe vnder this Fat your ſelfe to hide.</l>
+            </lg>
+            <lg>
+               <l>The Bruer he crept vnder the ſame,</l>
+               <l>And blundering in the Cooper came:</l>
+               <l>About the ſhop his Tubs he caſt,</l>
+               <l>To finde out his hatchet all in haſt.</l>
+            </lg>
+            <lg>
+               <l>Then his curſt wife began to prate,</l>
+               <l>If thou let out my Pig ile breake thy pate,</l>
+               <l>A Pig ſaid the Cooper I knew of none,</l>
+               <l>If thou hadſt not ſpoke the pig had bin gone</l>
+            </lg>
+            <lg>
+               <l>If it be a Sow-pig ſaid the Cooper,</l>
+               <l>Let me haue him roſted for my ſupper:</l>
+               <l>It is a Bore-pig man ſaid ſhe,</l>
+               <l>For my owne dyet and not for thée.</l>
+            </lg>
+            <lg>
+               <l>It is hard if a woman cannot haue a bit,</l>
+               <l>But ſtraightway her huſband muſt know of it</l>
+               <l>A Bore-pig ſaid the Cooper ſo me thinks,</l>
+               <l>He is ſo ramiſh fie how he ſtinkes.</l>
+            </lg>
+            <lg>
+               <l>Well ſayd the Cooper ſo I might thriue,</l>
+               <l>I would he were in thy belly a liue.</l>
+               <l>I thanke you for your wiſh good man,</l>
+               <l>It may chance it ſhall be there anon,</l>
+            </lg>
+            <lg>
+               <l>The Bruer that vnder the Fat did lye,</l>
+               <l>Like a Pig did aſſay to grunt and crie:</l>
+               <l>But alas his voice was nothing ſmall,</l>
+               <l>He cryed ſo big that he mard all.</l>
+            </lg>
+            <lg>
+               <l>Wife ſaid the Cooper this is no pig,</l>
+               <l>But an old hog he grunteth ſo big,</l>
+               <l>He lift vp the Fat then by and by,</l>
+               <l>There lay the Bruer like a Bore in a ſtie.</l>
+            </lg>
+            <lg>
+               <l>Wife ſaid the Cooper thou wilt lie like a dog</l>
+               <l>This is no pig but a very old hog:</l>
+               <l>I ſweare quoth the Cooper I doe not like him,</l>
+               <l>Ile knock him on the head ere ile kéepe him.</l>
+            </lg>
+            <lg>
+               <l>O Lord ſaid the Bruer ſerue me not ſo,</l>
+               <l>Hold thy hand Cooper and let me goe:</l>
+               <l>And I will giue thée both Ale and Béere,</l>
+               <l>To find thy houſe this ſixe or ſeauen yeare.</l>
+            </lg>
+            <lg>
+               <l>I will none of thy Ale nor yet of thy Béere,</l>
+               <l>For feare I be poiſoned within ſeauen yéere:</l>
+               <l>Why ſayd the Bruer if thou miſtruſt,</l>
+               <l>Hold here the keyes of my beſt cheſt.</l>
+            </lg>
+            <lg>
+               <l>And there is gold and ſiluer ſtore,</l>
+               <l>Will ſerue thée ſo long and ſomewhat more:</l>
+               <l>If there be ſtore quoth the Cooper I ſay,</l>
+               <l>I will not come emptie handed away.</l>
+            </lg>
+            <lg>
+               <l>The Cooper went and filled his hat,</l>
+               <l>The Bruer ſhall pay for vſing my Fat:</l>
+               <l>The hooping of twentie tubs euery day,</l>
+               <l>And not gaind me ſo much as I doe this way.</l>
+            </lg>
+            <lg>
+               <l>When he came againe his houſe within,</l>
+               <l>Packe away <abbr>qd</abbr> he Bruer with your broken ſhin:</l>
+               <l>And vnder my Fat créepe you no more,</l>
+               <l>Except you make wiſer bargaines before.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
